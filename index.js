@@ -4,6 +4,6 @@ const button = document.querySelector('button');
 const output = document.querySelector('.output');
 
 button.addEventListener('click', function() {
-    output.innerHTML = 'Сдесь может быть Ваша реклама';
+    output.innerHTML = 'Pixel твой хотят купить';
 
 });
